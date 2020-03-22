@@ -148,11 +148,14 @@ nav{
 	line-height: 43px;
 	color: #808080;
 	position: absolute;
-	top: 12px;
+	top: 30px;
+	left: 20px;
 }
 
 .design-text-container{
 	position: relative;
+	padding-left: 0px !important;
+	padding-top: 15px;
 }
 
 .pantone{
@@ -193,7 +196,7 @@ nav{
 .pantone-container{
 	border: 1px solid #868686;
 	height: 60px;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 
 .sugartensai{
@@ -206,7 +209,7 @@ nav{
 
 .sugartensai-container{
 	padding-right: 25px !important;
-	padding-top: 7px;
+	padding-top: 10px;
 }
 
 .play-button{
