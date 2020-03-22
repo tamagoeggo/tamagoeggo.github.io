@@ -401,6 +401,60 @@ nav{
 		padding-right: 50px !important; 
 		padding-top: 40px !important;
 	}
+
+	.design-body{
+		padding-right: 30px !important;
+		padding-left: 30px !important;
+	}
+
+	.design-text{
+		top: 31px;
+		left: 40px;
+	}
+
+	.design-text-container{
+		padding-top: 15px;
+		left: -20px;
+	}
+
+	.pantone-name{
+		font-size: 11px;
+	}
+
+	.pantone-text{
+		padding-top: 11px !important;
+	}
+
+	.pantone-container{
+		margin-bottom: 15px;
+	}
+
+	.sugartensai{
+		font-size: 22px;
+	}
+
+	.sugartensai-container{
+		padding-top: 4px;
+	}
+
+	.play-button{
+		height: 40px;
+		width: 40px;
+		padding-top: 5px;
+		padding-left: 12px !important;
+	}
+
+	.triangle-svg{
+		transform: scale(0.75);
+	}
+
+	.textbox-svg{
+		transform: scale(0.85);
+	}
+
+	.colors{
+		height: 270px;
+	}
 }
 
 @media screen and (max-width: 991px){
@@ -423,6 +477,10 @@ nav{
 		top: -650px;
 	}
 	
+	.colors{
+		height: 240px;
+	}
+
 	.im-amanda{
 		line-height: 42px; 
 		font-size: 35px; 
@@ -442,5 +500,41 @@ nav{
 		font-size: 20px;
 		line-height: 25px;
 	}	
+
+	.design-text{
+		font-size: 25px;
+		line-height: 35px;
+		top: 40px;
+		left: 50px;
+	}
+
+	.design-text-container{
+		padding-top: 15px;
+		left: -30px;
+	}
+
+	.textbox-svg{
+		transform: scale(0.8);
+	}
+		
+	.sugartensai{
+		font-size: 25px;
+	}
+
+	.sugartensai-container{
+		padding-right: 25px !important;
+		padding-top: 2px;
+	}
+
+	.play-button{
+		height: 40px;
+		width: 40px;
+		padding-top: 6px;
+		padding-left: 10px !important;
+	}
+
+	.pantone-container{
+		margin-bottom: 30px;
+	}
 }
 
