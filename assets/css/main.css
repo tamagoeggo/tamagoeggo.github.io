@@ -232,6 +232,22 @@ nav{
 	left: -50px;
 }
 
+.color-backdrop {
+	background: #323232;
+	height: 80%;
+	width: 80%;
+	margin-top: 5%;
+	margin-left: 10%;
+	padding: 20px;
+}
+
+.big-color-box{
+	width: 40px;
+	height: 40px;
+	background: #FFC700;
+	border: 1px solid #FFFFFF;
+}
+
 .window{
 	padding-right: 0.5px !important;
 	padding-left: 0.5px !important;	
