@@ -1,1 +1,4 @@
-My personal portfolio site for all things art, design and software related.
+###My personal portfolio site:
+For all things art, design and software related.
+
+Find me at <http://www.amandazhu.com>
