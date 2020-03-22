@@ -3,7 +3,7 @@ $(document).ready(function() {
     $('.window').draggable({
 		start: function(event, ui) { $(this).css("z-index", a++); }
 	});	
-    $('.window div').click(function() {
+    $('.window').click(function() {
         $(this).css("z-index", a++);
 	});
 	
